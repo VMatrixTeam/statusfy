@@ -2,10 +2,10 @@ module.exports = {
   "title": "Matrix",
   "name": "matrix",
   "description": "",
-  "defaultLocale": "zh",
+  "defaultLocale": "zh-CN",
   "locales": [
     {
-      "code": "zh",
+      "code": "zh-CN",
       "iso": "zh-CN",
       "name": "中文",
       "file": "zh.json"
