@@ -1,7 +1,8 @@
 module.exports = {
-  "title": "Matrix",
+  "title": "Matrix 系统状态",
   "name": "matrix",
   "description": "",
+  "baseUrl": "https://status.vmatrix.org.cn",
   "defaultLocale": "zh-cn",
   "locales": [
     {
@@ -12,6 +13,22 @@ module.exports = {
     }
   ],
   "content": {
-    "frontMatterFormat": "yaml"
+    "frontMatterFormat": "yaml",
+    "systems": [
+      "gateway",
+      "backend",
+      "judge",
+      "seaweedfs"
+    ]
+  },
+  "notification": {
+    "icalendar": false
+  },
+  "theme": {
+    "links": {
+      "zh-cn": {
+        "home": "https://vmatrix.org.cn"
+      }
+    }
   }
 }
