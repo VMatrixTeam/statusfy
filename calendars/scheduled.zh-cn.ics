@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Statusfy//status.vmatrix.org.cn//calendar//scheduled//ZH-CN
+NAME:Matrix 系统状态
+X-WR-CALNAME:Matrix 系统状态
+TIMEZONE-ID:UTC
+X-WR-TIMEZONE:UTC
+END:VCALENDAR

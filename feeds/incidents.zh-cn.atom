@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://status.vmatrix.org.cn</id>
+    <title>Matrix 系统状态</title>
+    <updated>2020-07-09T03:42:27.299Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="https://status.vmatrix.org.cn"/>
+    <link rel="self" href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.atom"/>
+</feed>
