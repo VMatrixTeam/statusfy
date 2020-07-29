@@ -1,0 +1,49 @@
+backend:
+  name: git-gateway
+media_folder: "public/images" # Media files will be stored in the repo under public/images
+public_folder: "/images" # The src attribute for uploaded media will begin with /images
+site_url: https://status.vmatrix.org.cn
+collections:
+  - name: "incident" # Used in routes, e.g., /admin/collections/blog
+    label: "Incident" # Used in the UI
+    folder: "content" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - label: "事故标题"
+        name: "title"
+        widget: "string"
+      - label: "事故发生时间"
+        name: "date"
+        widget: "datetime"
+      - label: "严重程度"
+        name: "severity"
+        widget: "select"
+        options:
+          - label: "正在维护"
+            value: "under-maintenance"
+          - label: "性能降级"
+            value: "degraded-performance"
+          - label: "部分不可用"
+            value: "partial-outage"
+          - label: "完全不可用"
+            value: "major-outage"
+      - label: "Affected Systems"
+        name: "affectedsystems"
+        widget: "select"
+        multiple: true
+        options:
+          - label: "服务网关"
+            value: "gateway"
+          - label: "服务端"
+            value: "backend"
+          - label: "评测系统"
+            value: "judge"
+          - label: "文件系统"
+            value: "seaweedfs"
+      - label: "Resolved"
+        name: "resolved"
+        widget: "boolean"
+      - label: "事故描述"
+        name: "body"
+        widget: "markdown"
