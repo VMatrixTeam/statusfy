@@ -45,6 +45,14 @@ collections:
       - label: "Resolved"
         name: "resolved"
         widget: "boolean"
+      - label: "预定维护开始时间"
+        name: "scheduled"
+        widget: "datetime"
+        required: false
+      - label: "预定维护时长（分钟）"
+        name: "duration"
+        widget: "string"
+        required: false
       - label: "事故描述"
         name: "body"
         widget: "markdown"
