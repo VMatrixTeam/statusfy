@@ -4,10 +4,18 @@
         <title>Matrix 系统状态</title>
         <link>https://status.vmatrix.org.cn</link>
         <description></description>
-        <lastBuildDate>Sat, 01 Aug 2020 00:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2020 15:52:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[假期例行维护]]></title>
+            <link>https://status.vmatrix.org.cn/incidents/86c97534</link>
+            <guid>https://status.vmatrix.org.cn/incidents/86c97534</guid>
+            <pubDate>Fri, 31 Jul 2020 13:01:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p>为了给您提供更好的服务，Matrix 将于 2020 年 8 月 2 日（星期日）全天进行例行维护，届时课程系统将无法访问。对于由此给您带来的不便，我们深表歉意。</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[集群网络故障]]></title>
             <link>https://status.vmatrix.org.cn/incidents/76762af8</link>
