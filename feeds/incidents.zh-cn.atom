@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.vmatrix.org.cn</id>
     <title>Matrix 系统状态</title>
-    <updated>2020-08-19T06:52:57.354Z</updated>
+    <updated>2020-08-19T13:28:35.486Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.vmatrix.org.cn"/>
     <link rel="self" href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.atom"/>
+    <entry>
+        <title type="html"><![CDATA[服务故障]]></title>
+        <id>https://status.vmatrix.org.cn/incidents/9cd42d26</id>
+        <link href="https://status.vmatrix.org.cn/incidents/9cd42d26"/>
+        <updated>2020-08-19T13:04:00.000Z</updated>
+        <content type="html"><![CDATA[<p>我们正在关注部分服务不可用的问题。</p>
+<div class="update-block">
+          <div class="update-block-date">2020-08-19T13:26:19.605Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Investigating</div>
+            <div class="update-block-body">
+<p>我们已经定位到了故障原因，正在处理中。</p>
+</div></div></div>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[假期例行维护]]></title>
         <id>https://status.vmatrix.org.cn/incidents/86c97534</id>
