@@ -4,7 +4,7 @@
         <title>Matrix 系统状态</title>
         <link>https://status.vmatrix.org.cn</link>
         <description></description>
-        <lastBuildDate>Wed, 19 Aug 2020 13:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2020 14:00:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.xml" rel="self" type="application/rss+xml"/>
@@ -14,6 +14,20 @@
             <guid>https://status.vmatrix.org.cn/incidents/9cd42d26</guid>
             <pubDate>Wed, 19 Aug 2020 13:04:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>我们正在关注部分服务不可用的问题。</p>
+<div class="update-block">
+          <div class="update-block-date">2020-08-19T13:58:20.549Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>问题已解决。</p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2020-08-19T13:37:21.633Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Monitoring</div>
+            <div class="update-block-body">
+<p>我们已经执行了恢复操作，正在观察恢复情况。</p>
+</div></div></div>
 <div class="update-block">
           <div class="update-block-date">2020-08-19T13:26:19.605Z</div>
           <div class="update-block-content">
