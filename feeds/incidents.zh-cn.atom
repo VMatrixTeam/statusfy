@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.vmatrix.org.cn</id>
     <title>Matrix 系统状态</title>
-    <updated>2020-08-19T14:00:10.953Z</updated>
+    <updated>2020-08-20T00:11:12.565Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.vmatrix.org.cn"/>
     <link rel="self" href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.atom"/>
+    <entry>
+        <title type="html"><![CDATA[假期例行维护 II]]></title>
+        <id>https://status.vmatrix.org.cn/incidents/030818ce</id>
+        <link href="https://status.vmatrix.org.cn/incidents/030818ce"/>
+        <updated>2020-08-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>为了给您提供更好的服务，Matrix 将于 2020 年 8 月 20 日（星期四）上午 8:00 起进行例行维护，预计最晚 24:00 完成维护。维护期间课程系统将无法访问。对于由此给您带来的不便，我们深表歉意。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[服务故障]]></title>
         <id>https://status.vmatrix.org.cn/incidents/9cd42d26</id>
