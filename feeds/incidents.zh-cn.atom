@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.vmatrix.org.cn</id>
     <title>Matrix 系统状态</title>
-    <updated>2020-09-01T00:13:17.214Z</updated>
+    <updated>2020-09-01T02:37:30.713Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.vmatrix.org.cn"/>
     <link rel="self" href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.atom"/>
+    <entry>
+        <title type="html"><![CDATA[集群路由器维护]]></title>
+        <id>https://status.vmatrix.org.cn/incidents/736f36a2</id>
+        <link href="https://status.vmatrix.org.cn/incidents/736f36a2"/>
+        <updated>2020-09-01T02:34:09.096Z</updated>
+        <content type="html"><![CDATA[<p>近期发现集群路由器存在间歇性鼓掌，现对该路由器进行维护，预计为期半小时。对由此给您带来的不便，我们深表歉意。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[假期例行维护 II]]></title>
         <id>https://status.vmatrix.org.cn/incidents/030818ce</id>

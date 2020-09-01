@@ -4,10 +4,18 @@
         <title>Matrix 系统状态</title>
         <link>https://status.vmatrix.org.cn</link>
         <description></description>
-        <lastBuildDate>Tue, 01 Sep 2020 00:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2020 02:37:30 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[集群路由器维护]]></title>
+            <link>https://status.vmatrix.org.cn/incidents/736f36a2</link>
+            <guid>https://status.vmatrix.org.cn/incidents/736f36a2</guid>
+            <pubDate>Tue, 01 Sep 2020 02:34:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p>近期发现集群路由器存在间歇性鼓掌，现对该路由器进行维护，预计为期半小时。对由此给您带来的不便，我们深表歉意。</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[假期例行维护 II]]></title>
             <link>https://status.vmatrix.org.cn/incidents/030818ce</link>
