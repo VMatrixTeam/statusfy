@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.vmatrix.org.cn</id>
     <title>Matrix 系统状态</title>
-    <updated>2020-09-16T00:13:28.293Z</updated>
+    <updated>2020-09-16T03:41:02.925Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.vmatrix.org.cn"/>
     <link rel="self" href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.atom"/>
+    <entry>
+        <title type="html"><![CDATA[文件系统故障]]></title>
+        <id>https://status.vmatrix.org.cn/incidents/7d954eca</id>
+        <link href="https://status.vmatrix.org.cn/incidents/7d954eca"/>
+        <updated>2020-09-16T03:16:00.000Z</updated>
+        <content type="html"><![CDATA[<p>我们观察到部分发往文件系统的上传请求失败，正在积极调查该问题。</p>
+<div class="update-block">
+          <div class="update-block-date">2020-09-16T03:39:00.018Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Monitoring</div>
+            <div class="update-block-body">
+<p>我们已应用了临时解决方案，正在观察恢复情况。</p>
+</div></div></div>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[集群路由器维护]]></title>
         <id>https://status.vmatrix.org.cn/incidents/736f36a2</id>

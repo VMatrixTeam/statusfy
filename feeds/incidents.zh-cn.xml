@@ -4,10 +4,25 @@
         <title>Matrix 系统状态</title>
         <link>https://status.vmatrix.org.cn</link>
         <description></description>
-        <lastBuildDate>Wed, 16 Sep 2020 00:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2020 03:41:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[文件系统故障]]></title>
+            <link>https://status.vmatrix.org.cn/incidents/7d954eca</link>
+            <guid>https://status.vmatrix.org.cn/incidents/7d954eca</guid>
+            <pubDate>Wed, 16 Sep 2020 03:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>我们观察到部分发往文件系统的上传请求失败，正在积极调查该问题。</p>
+<div class="update-block">
+          <div class="update-block-date">2020-09-16T03:39:00.018Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Monitoring</div>
+            <div class="update-block-body">
+<p>我们已应用了临时解决方案，正在观察恢复情况。</p>
+</div></div></div>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[集群路由器维护]]></title>
             <link>https://status.vmatrix.org.cn/incidents/736f36a2</link>
