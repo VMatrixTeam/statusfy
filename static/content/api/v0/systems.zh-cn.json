@@ -1,1 +1,1 @@
-[{"name":"gateway","status":"operational","order":1},{"name":"backend","status":"operational","order":2},{"name":"judge","status":"operational","order":3},{"name":"seaweedfs","status":"operational","order":4}]
+[{"name":"gateway","status":"major-outage","order":1},{"name":"backend","status":"operational","order":2},{"name":"judge","status":"operational","order":3},{"name":"seaweedfs","status":"operational","order":4}]
