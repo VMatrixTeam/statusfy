@@ -4,10 +4,25 @@
         <title>Matrix 系统状态</title>
         <link>https://status.vmatrix.org.cn</link>
         <description></description>
-        <lastBuildDate>Sat, 31 Oct 2020 00:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2020 14:38:24 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[服务器负载过高]]></title>
+            <link>https://status.vmatrix.org.cn/incidents/5259e2d0</link>
+            <guid>https://status.vmatrix.org.cn/incidents/5259e2d0</guid>
+            <pubDate>Sat, 31 Oct 2020 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>我们注意到部分服务的错误率有所上升，并且正在调查。</p>
+<div class="update-block">
+          <div class="update-block-date">2020-10-31T13:15:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>相关服务已经恢复。</p>
+</div></div></div>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[数据中心间通信故障]]></title>
             <link>https://status.vmatrix.org.cn/incidents/bef1a212</link>
