@@ -4,7 +4,7 @@
         <title>Matrix 系统状态</title>
         <link>https://status.vmatrix.org.cn</link>
         <description></description>
-        <lastBuildDate>Thu, 19 Nov 2020 07:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2020 08:24:21 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.xml" rel="self" type="application/rss+xml"/>
@@ -14,6 +14,13 @@
             <guid>https://status.vmatrix.org.cn/incidents/3580fc23</guid>
             <pubDate>Thu, 19 Nov 2020 05:14:47 GMT</pubDate>
             <content:encoded><![CDATA[<p>我们接到系统有关 DNS 不可用的告警，并正在调查此问题。</p>
+<div class="update-block">
+          <div class="update-block-date">2020-11-19T07:30:33.996Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>相关服务已恢复。</p>
+</div></div></div>
 <div class="update-block">
           <div class="update-block-date">2020-11-19T07:05:01.629Z</div>
           <div class="update-block-content">
