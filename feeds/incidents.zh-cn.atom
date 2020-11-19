@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.vmatrix.org.cn</id>
     <title>Matrix 系统状态</title>
-    <updated>2020-11-19T07:12:00.565Z</updated>
+    <updated>2020-11-19T07:15:16.464Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.vmatrix.org.cn"/>
     <link rel="self" href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.atom"/>
@@ -10,7 +10,7 @@
         <title type="html"><![CDATA[集群内部 DNS 故障]]></title>
         <id>https://status.vmatrix.org.cn/incidents/3580fc23</id>
         <link href="https://status.vmatrix.org.cn/incidents/3580fc23"/>
-        <updated>2020-11-19T07:04:47.167Z</updated>
+        <updated>2020-11-19T05:14:47.167Z</updated>
         <content type="html"><![CDATA[<p>我们接到系统有关 DNS 不可用的告警，并正在调查此问题。</p>
 <div class="update-block">
           <div class="update-block-date">2020-11-19T07:05:01.629Z</div>

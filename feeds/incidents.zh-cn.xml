@@ -4,7 +4,7 @@
         <title>Matrix 系统状态</title>
         <link>https://status.vmatrix.org.cn</link>
         <description></description>
-        <lastBuildDate>Thu, 19 Nov 2020 07:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2020 07:15:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.xml" rel="self" type="application/rss+xml"/>
@@ -12,7 +12,7 @@
             <title><![CDATA[集群内部 DNS 故障]]></title>
             <link>https://status.vmatrix.org.cn/incidents/3580fc23</link>
             <guid>https://status.vmatrix.org.cn/incidents/3580fc23</guid>
-            <pubDate>Thu, 19 Nov 2020 07:04:47 GMT</pubDate>
+            <pubDate>Thu, 19 Nov 2020 05:14:47 GMT</pubDate>
             <content:encoded><![CDATA[<p>我们接到系统有关 DNS 不可用的告警，并正在调查此问题。</p>
 <div class="update-block">
           <div class="update-block-date">2020-11-19T07:05:01.629Z</div>
