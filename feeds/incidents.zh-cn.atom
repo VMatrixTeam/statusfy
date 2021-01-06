@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.vmatrix.org.cn</id>
     <title>Matrix 系统状态</title>
-    <updated>2021-01-06T00:27:01.808Z</updated>
+    <updated>2021-01-06T03:11:33.294Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.vmatrix.org.cn"/>
     <link rel="self" href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.atom"/>
+    <entry>
+        <title type="html"><![CDATA[集群发生未知故障]]></title>
+        <id>https://status.vmatrix.org.cn/incidents/0d364400</id>
+        <link href="https://status.vmatrix.org.cn/incidents/0d364400"/>
+        <updated>2021-01-06T01:45:00.000Z</updated>
+        <content type="html"><![CDATA[<p>集群发生未知故障，课程系统整体不可用，请等待我们的检修。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Redis, RabbitMQ, 服务网关故障]]></title>
         <id>https://status.vmatrix.org.cn/incidents/3e958365</id>

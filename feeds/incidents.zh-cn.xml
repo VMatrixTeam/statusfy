@@ -4,10 +4,18 @@
         <title>Matrix 系统状态</title>
         <link>https://status.vmatrix.org.cn</link>
         <description></description>
-        <lastBuildDate>Wed, 06 Jan 2021 00:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2021 03:11:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[集群发生未知故障]]></title>
+            <link>https://status.vmatrix.org.cn/incidents/0d364400</link>
+            <guid>https://status.vmatrix.org.cn/incidents/0d364400</guid>
+            <pubDate>Wed, 06 Jan 2021 01:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>集群发生未知故障，课程系统整体不可用，请等待我们的检修。</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Redis, RabbitMQ, 服务网关故障]]></title>
             <link>https://status.vmatrix.org.cn/incidents/3e958365</link>
