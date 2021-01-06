@@ -1,1 +1,1 @@
-{"id":"0d364400","title":"集群发生未知故障","date":"2021-01-06T01:45:00.000Z","modified":"2021-01-06T03:11:14.870Z","scheduled":"2021-01-06T02:06:00.000Z","severity":"major-outage","affectedsystems":["backend","gateway","seaweedfs","judge"],"resolved":false,"content":"<p>集群发生未知故障，课程系统整体不可用，请等待我们的检修。</p>\n"}
+{"id":"0d364400","title":"集群发生未知故障","date":"2021-01-06T01:45:00.000Z","modified":"2021-01-06T10:27:31.629Z","scheduled":null,"severity":"major-outage","affectedsystems":["backend","gateway","seaweedfs","judge"],"resolved":false,"content":"<p>集群发生未知故障，课程系统整体不可用，请等待我们的检修。</p>\n"}
