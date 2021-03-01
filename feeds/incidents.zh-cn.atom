@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.vmatrix.org.cn</id>
     <title>Matrix 系统状态</title>
-    <updated>2021-02-28T00:13:48.081Z</updated>
+    <updated>2021-03-01T00:14:12.681Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.vmatrix.org.cn"/>
     <link rel="self" href="https://status.vmatrix.org.cn/feeds/incidents.zh-cn.atom"/>
